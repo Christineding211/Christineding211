@@ -30,13 +30,10 @@ Currently building AI-powered customer analytics tools for revenue monitoring an
 - 📌 [Online Ad Campaign Analysis](https://github.com/Christineding211/Online-Ad-Campaign-Analysis)  
   SQL + Tableau dashboard for campaign effectiveness.
 
+- 📌 [Financial Customer Segmentation](https://github.com/Christineding211/Financial-Customer-Segmentation-Analysis)
+
 - 📌 [Bank Loan Analysis (SQL + Tableau)](https://github.com/Christineding211/Bank-Loan-Data-Analysis-SQL-Tableau-)
-
----
-
-### 💼 Financial & Advisory
-- 💰 [AI Financial Advisor](https://github.com/Christineding211/AI-financial-advisor)  
-  Personal finance analysis using LLMs and visual reports.
+  
 
 ---
 
@@ -44,11 +41,10 @@ Currently building AI-powered customer analytics tools for revenue monitoring an
 - 🧪 [Power BI Portfolio](https://github.com/Christineding211/Power-BI-Portfolio)  
   Dashboards across marketing, finance and operations.
 
-- 🎯 [Financial Customer Segmentation](https://github.com/Christineding211/Financial-Customer-Segmentation-Analysis)
 
 ---
 
 ## 📫 Let's Connect!
 
 - ✉️ christineding0211@gmail.com 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/christine-ding-data/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/christine-ding0211/)
