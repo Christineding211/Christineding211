@@ -11,16 +11,16 @@ Currently building AI-powered customer analytics tools for revenue monitoring an
 
 ### 🧠 AI & Predictive Analytics
 - 🔸 [RevTrend AI - Customer Segmentation & Revenue Risk System](https://github.com/Christineding211/RevTrend-AI-Customer-Segmentation-Revenue-Risk-System)  
-  Identify long-term declining customers using STL decomposition, trend detection and anomaly flags.
+  An AI-powered system that detects long-term revenue decline using STL decomposition, segments customers by behavioural patterns (via KMeans), detects anomalies, and generates LLM-based actionable insights to support retention strategies.
 
 - 🔸 [Customer Revenue Alert System](https://github.com/Christineding211/Customer-revenue-alert)  
-  Streamlit dashboard + LLM-generated summaries to monitor income trends per customer.
+  A Streamlit dashboard that classifies customers into risk levels based on revenue trend patterns, displays individual diagnostics, heatmaps by group, and generates customer-specific business insights for churn prevention.
 
 - 🔸 [Customer Churn Forecasting](https://github.com/Christineding211/customer-churn-forecasting)  
-  Predict customer churn using Logistic Regression with Gradio interface.
-
+  Built and deployed a predictive model to identify high-risk customers using Logistic Regression and XGBoost. Includes MLflow tracking, feature engineering, and a Gradio web app for stakeholder interaction.
+  
 - 🔸 [CLV Prediction: ML vs. Deep Learning](https://github.com/Christineding211/Customer-Segmentation-and-CLV-Prediction-ML-vs.-Deep-Learning)  
-  Compare ML vs DL models for Customer Lifetime Value prediction.
+  Developed a full pipeline to segment customers and predict Customer Lifetime Value (CLV) using multiple models including Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, and Deep Learning (MLP). Compared model performance and feature importance to inform marketing strategies in the retail sector.
 
 ---
 
