@@ -13,7 +13,7 @@ Currently building AI-powered customer analytics tools for revenue monitoring an
 - 🔸 [RevTrend AI - Customer Segmentation & Revenue Risk System](https://github.com/Christineding211/RevTrend-AI-Customer-Segmentation-Revenue-Risk-System)  
   An AI-powered system that detects long-term revenue decline using STL decomposition, segments customers by behavioural patterns (via KMeans), detects anomalies, and generates LLM-based actionable insights to support retention strategies.
 
-- 🔸 [Customer Revenue Alert System](https://github.com/Christineding211/Customer-revenue-alert)  
+- 🔸 [Customer Revenue Alert System (Lite)](https://github.com/Christineding211/Customer-revenue-alert)  
   A Streamlit dashboard that classifies customers into risk levels based on revenue trend patterns, displays individual diagnostics, heatmaps by group, and generates customer-specific business insights for churn prevention.
 
 - 🔸 [Customer Churn Forecasting](https://github.com/Christineding211/customer-churn-forecasting)  
