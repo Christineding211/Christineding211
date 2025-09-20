@@ -1,9 +1,9 @@
 
-# 👋 Hi, I'm Christine  – Data Scientist | Business-focused AI Practitioner
+# 👋 Hi, I'm Christine – Data Scientist | AI for Business Impact & Governance
 
-I'm passionate about turning data into actionable insights.  
-With experience in customer segmentation, revenue trend analysis, and predictive modelling, I use AI and machine learning to solve real-world business problems.  
-Currently building AI-powered customer analytics tools for revenue monitoring and churn prediction.
+I specialise in applying AI and machine learning to deliver actionable business insights.
+Experienced in customer segmentation, revenue trend analysis, and predictive modelling, with a focus on making models explainable, fair, and business-ready.
+Currently building AI-powered customer analytics tools for revenue monitoring, churn prevention, and responsible AI governance.
 
 ---
 
