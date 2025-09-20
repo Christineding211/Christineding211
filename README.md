@@ -10,6 +10,11 @@ Currently building AI-powered customer analytics tools for revenue monitoring an
 ## 🚀 Featured Projects
 
 ### 🧠 AI & Predictive Analytics
+
+- 🔸 [SmartLoan – Credit-Risk Prediction, Governance & Monitoring Dashboard](https://github.com/Christineding211/SmartLoan-Monitor)
+
+  End-to-end credit-risk prediction and governance dashboard featuring Logistic Regression & XGBoost models, PSI-based drift monitoring, fairness testing, SHAP explainability, and LLM-generated compliance summaries for the finance sector.
+
 - 🔸 [RevTrend AI - Customer Segmentation & Revenue Risk System](https://github.com/Christineding211/RevTrend-AI-Customer-Segmentation-Revenue-Risk-System)  
   An AI-powered system that detects long-term revenue decline using STL decomposition, segments customers by behavioural patterns (via KMeans), detects anomalies, and generates LLM-based actionable insights to support retention strategies.
 
