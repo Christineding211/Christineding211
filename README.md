@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Christine – Data Scientist | AI for Business Impact & Governance
+# 👋  Hi, I'm Christine – Driving AI for Business Impact and Responsible Governance.
 
 I specialise in applying AI and machine learning to deliver actionable business insights.
 Experienced in customer segmentation, revenue trend analysis, and predictive modelling, with a focus on making models explainable, fair, and business-ready.
