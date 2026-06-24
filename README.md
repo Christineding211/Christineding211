@@ -18,7 +18,7 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
   Developed a full pipeline to segment customers and predict Customer Lifetime Value (CLV) using multiple models, including Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, and Deep Learning (MLP). Compared model performance and feature importance to inform marketing strategies in the retail sector.
 
 
-- 🔸 [RevTrend AI - Customer Segmentation & Revenue Risk System](https://github.com/Christineding211/RevTrend-AI-Customer-Segmentation-Revenue-Risk-System)  
+- 🔸 [Customer Revenue Risk Monitoring and Alerting](https://github.com/Christineding211/RevTrend-AI-Customer-Segmentation-Revenue-Risk-System)  
   An AI-powered system that detects long-term revenue decline using STL decomposition, segments customers by behavioural patterns (via KMeans), detects anomalies, and generates LLM-based actionable insights to support retention strategies.
 
 
