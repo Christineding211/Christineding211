@@ -19,7 +19,6 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 
 ### 🤖 Machine Learning & Customer Analytics
 
-
 - 🔸 [Customer Segmentation and CLV Prediction](https://github.com/Christineding211/Customer-Segmentation-and-CLV-Prediction-ML-vs.-Deep-Learning)  
   Built a customer analytics pipeline for customer segmentation and CLV analysis using Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, and MLP. Compared model performance and feature importance to support targeted marketing strategies.
 
@@ -29,19 +28,15 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 
 ### 📊 Business Intelligence & Analytics
 
-- 📌 [Sales & Customer Insights with Predictive Analytics](https://github.com/Christineding211/Sales-and-Customer-Insights-with-Predictive-Analytics)
-
+- 📌 [Sales & Customer Insights with Predictive Analytics](https://github.com/Christineding211/Sales-and-Customer-Insights-with-Predictive-Analytics)  
   Retail analytics project using sales, promotion, seasonality, and competitor data to generate business insights and build a Random Forest sales prediction model.
 
-- 📌 [Online Ad Campaign Analysis](https://github.com/Christineding211/Online-Ad-Campaign-Analysis)
-
+- 📌 [Online Ad Campaign Analysis](https://github.com/Christineding211/Online-Ad-Campaign-Analysis)  
   SQL, BigQuery, and Tableau project analysing ad campaign performance through CTR, ROAS, clicks, impressions, and revenue to support marketing budget optimisation.
 
-- 📌 [Power BI Portfolio](https://github.com/Christineding211/Power-BI-Portfolio)
-
+- 📌 [Power BI Portfolio](https://github.com/Christineding211/Power-BI-Portfolio)  
   Dashboards across sales and operations.
-
-
+  
 
 
 ---
