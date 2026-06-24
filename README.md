@@ -20,8 +20,8 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 ### 🤖 Machine Learning & Customer Analytics
 
 
-- 🔸 [CLV Prediction: ML vs. Deep Learning](https://github.com/Christineding211/Customer-Segmentation-and-CLV-Prediction-ML-vs.-Deep-Learning)  
-  Built a customer analytics pipeline to segment customers and predict Customer Lifetime Value (CLV) using Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, and MLP. Compared model performance and feature importance to support targeted marketing decisions.
+- 🔸 [Customer Segmentation and CLV Prediction](https://github.com/Christineding211/Customer-Segmentation-and-CLV-Prediction-ML-vs.-Deep-Learning)  
+  Built a customer analytics pipeline for customer segmentation and CLV analysis using Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, and MLP. Compared model performance and feature importance to support targeted marketing strategies.
 
 - 🔸 [Customer Churn Forecasting](https://github.com/Christineding211/customer-churn-forecasting)  
   Built a churn prediction workflow using Logistic Regression and XGBoost to identify high-risk customers, with feature engineering, MLflow experiment tracking, and a Gradio app for stakeholder interaction.
