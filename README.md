@@ -25,9 +25,6 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 - 🔸 [Customer Churn Forecasting](https://github.com/Christineding211/customer-churn-forecasting)  
   Built and deployed a predictive model to identify high-risk customers using Logistic Regression and XGBoost. Includes MLflow tracking, feature engineering, and a Gradio web app for stakeholder interaction.
   
-- 🔸 [SmartLoan – Credit-Risk Prediction, Governance & Monitoring Dashboard](https://github.com/Christineding211/SmartLoan-Monitor)
-
-  End-to-end credit-risk prediction and governance dashboard featuring Logistic Regression & XGBoost models, PSI-based drift monitoring, fairness testing, SHAP explainability, and LLM-generated compliance summaries for the finance sector.
   
 ---
 
