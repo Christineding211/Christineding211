@@ -31,6 +31,8 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 ### 📊 Business Analysis Projects
 - 📌 [Sales & Customer Insights with Predictive Analytics](https://github.com/Christineding211/Sales-and-Customer-Insights-with-Predictive-Analytics)
 
+  Retail analytics project using sales, promotion, seasonality, and competitor data to generate business insights and build a Random Forest sales prediction model.
+
 - 📌 [Online Ad Campaign Analysis](https://github.com/Christineding211/Online-Ad-Campaign-Analysis)  
   SQL + Tableau dashboard for campaign effectiveness.
 
