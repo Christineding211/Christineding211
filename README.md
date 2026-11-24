@@ -9,6 +9,8 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 
 ### ⚙️ Data Engineering & Analytics Engineering
 
+- 🔸 [Inventory-Discrepancy-Analysis](https://github.com/Christineding211/Inventory-Discrepancy-Analysis)
+
 - 🔸 [E-commerce Price Tracker – Airflow & GCP Data Pipeline](https://github.com/Christineding211/E-commerce-price-tracker)
 
   End-to-end e-commerce pricing data pipeline that collects, cleans, and analyses Momo and PChome product data using Apache Airflow, Docker Swarm, MySQL, GCS, and BigQuery. Designed a Kimball-style warehouse model with fuzzy product matching to support reliable cross-platform price analysis.
