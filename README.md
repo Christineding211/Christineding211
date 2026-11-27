@@ -9,6 +9,8 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 
 ### ⚙️ Data Engineering & Analytics Engineering
 
+- 🔸 [inventory-planning-exception-analysis](https://github.com/Christineding211/inventory-planning-exception-analysis)
+
 - 🔸 [Inventory-Discrepancy-Analysis](https://github.com/Christineding211/Inventory-Discrepancy-Analysis)
 
 - 🔸 [E-commerce Price Tracker – Airflow & GCP Data Pipeline](https://github.com/Christineding211/E-commerce-price-tracker)
