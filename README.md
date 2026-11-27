@@ -11,7 +11,11 @@ Data professional bridging Data Science and Data Engineering. Experienced in bui
 
 - 🔸 [inventory-planning-exception-analysis](https://github.com/Christineding211/inventory-planning-exception-analysis)
 
+    Flags SKUs at risk of allocation shortfall or stock-out before replenishment, and turns them into a prioritised review queue for planners.
+
 - 🔸 [Inventory-Discrepancy-Analysis](https://github.com/Christineding211/Inventory-Discrepancy-Analysis)
+
+    Reconciles daily ERP and WMS inventory snapshots to detect mismatches and overselling risk, ranking exceptions P1–P3 for investigation.
 
 - 🔸 [E-commerce Price Tracker – Airflow & GCP Data Pipeline](https://github.com/Christineding211/E-commerce-price-tracker)
 
